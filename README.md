@@ -1,2 +1,4 @@
 # graph.facebook
 Graph Facebook
+curl -i -X GET \
+ "https://graph.facebook.com/v7.0/me?fields=id%2Cname&access_token=EAAkI5z5KMyYBAPjTA2nRZCOAV1BcJqNefgWoiK61FHHt8Ej1Gsm5qZAQUgEGpfdYAreVqZBoW3B3p0uEOR51A18yZB6iJV38lZARvpGbKZCTZCBnWMbq6o6PRwZCt18XCzJop8C5mYDSHIVrshrFQt4r8YzfOCXn5C2xT9NCfZAcTkWcrR2zdXEDa2ZBmlsOAu2SsZD"
